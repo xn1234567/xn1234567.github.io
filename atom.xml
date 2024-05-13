@@ -3,11 +3,11 @@
   <title>xn&#39;s blog</title>
   
   <subtitle>welcome to my blog</subtitle>
-  <link href="https://github.com/xn1234567/xn1234567.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://github.com/xn1234567/xn1234567.github.io/"/>
+  <link href="http://example.com/"/>
   <updated>2024-05-11T02:20:20.646Z</updated>
-  <id>https://github.com/xn1234567/xn1234567.github.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>夏楠</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>开题报告</title>
-    <link href="https://github.com/xn1234567/xn1234567.github.io/2024/05/11/kai-ti-bao-gao/"/>
-    <id>https://github.com/xn1234567/xn1234567.github.io/2024/05/11/kai-ti-bao-gao/</id>
+    <link href="http://example.com/2024/05/11/kai-ti-bao-gao/"/>
+    <id>http://example.com/2024/05/11/kai-ti-bao-gao/</id>
     <published>2024-05-11T02:18:41.000Z</published>
     <updated>2024-05-11T02:20:20.646Z</updated>
     
@@ -44,8 +44,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/xn1234567/xn1234567.github.io/2024/05/07/hello-world/"/>
-    <id>https://github.com/xn1234567/xn1234567.github.io/2024/05/07/hello-world/</id>
+    <link href="http://example.com/2024/05/07/hello-world/"/>
+    <id>http://example.com/2024/05/07/hello-world/</id>
     <published>2024-05-07T10:12:57.414Z</published>
     <updated>2024-05-07T10:12:57.415Z</updated>
     
