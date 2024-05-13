@@ -6,7 +6,7 @@
   <link href="https://github.com/xn1234567/xn1234567.github.io/atom.xml" rel="self"/>
   
   <link href="https://github.com/xn1234567/xn1234567.github.io/"/>
-  <updated>2024-05-13T11:30:01.128Z</updated>
+  <updated>2024-05-13T11:52:01.667Z</updated>
   <id>https://github.com/xn1234567/xn1234567.github.io/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="https://github.com/xn1234567/xn1234567.github.io/2024/05/13/shi-pin-bo-fang-qi/"/>
     <id>https://github.com/xn1234567/xn1234567.github.io/2024/05/13/shi-pin-bo-fang-qi/</id>
     <published>2024-05-13T11:25:33.000Z</published>
-    <updated>2024-05-13T11:30:01.128Z</updated>
+    <updated>2024-05-13T11:52:01.667Z</updated>
     
-    <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=42467871&amp;bvid=BV1Cb411677C&amp;cid=74518805&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><div style="position: relative;width: 100%;height: 0;padding-bottom: 75%;"></div>]]></content>
+    <content type="html"><![CDATA[<div style="position: relative;width: 100%;height: 0;padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=42467871&amp;bvid=BV1Cb411677C&amp;cid=74518805&amp;p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute;width: 100%;height:100%;left: 0;top :0;"> </iframe></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=42467871&amp;amp;bvid=BV1Cb411677C&amp;amp;cid=74518805&amp;amp;p=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameb</summary>
+    <summary type="html">&lt;div style=&quot;position: relative;width: 100%;height: 0;padding-bottom: 75%;&quot;&gt;
+    &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=42467871&amp;</summary>
       
     
     
