@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-11T02:20:20.646Z</updated>
+  <updated>2024-05-14T08:18:05.633Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>video</title>
+    <link href="http://example.com/2024/05/14/video/"/>
+    <id>http://example.com/2024/05/14/video/</id>
+    <published>2024-05-14T08:15:09.000Z</published>
+    <updated>2024-05-14T08:18:05.633Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"> <iframe src="//player.bilibili.com/player.html?aid=90978812&amp;cid=155358422&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;"></iframe></div> ]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;position: relative; width: 100%; height: 0; padding-bottom: 75%;&quot;&gt; &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=90978812&amp;a</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>开题报告</title>
